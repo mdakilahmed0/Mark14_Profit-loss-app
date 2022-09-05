@@ -1,4 +1,4 @@
-# Mark 14: Stock Loss And Profit Calc
+# Mark 14: Stock Loss And Profit App
     a. It's a app to calculate the loss and profit of stock market.
     b. It takes three input from the user: Buying Price, Selling Price, and Quantity of the stocks.
     c. Then it calculate the loss and profit along with it's percentage and output the result.
